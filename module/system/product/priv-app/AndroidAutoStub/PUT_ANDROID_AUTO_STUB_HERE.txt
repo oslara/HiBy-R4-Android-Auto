@@ -1,0 +1,30 @@
+# AndroidAutoStub.apk goes here
+
+This repository intentionally does NOT include Google's proprietary AndroidAutoStub.apk.
+
+Extract your own compatible copy and place it in this directory as:
+
+AndroidAutoStub.apk
+
+Known-good development reference:
+
+Package:
+com.google.android.projection.gearhead
+
+Version:
+1.2.558700-stub
+
+Version code:
+12558700
+
+Size:
+3,953,532 bytes
+
+SHA-256:
+57ea6d176178e52fedb8b351441141aefaf8b6e98cfbed10a9fa1b006a608072
+
+See:
+docs/ANDROID-AUTO-STUB.md
+
+Project principle:
+"We provide the implementation, not somebody else's proprietary binaries."
